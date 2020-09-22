@@ -16,7 +16,7 @@
     "type":    "library",
     "license": "MIT",
     "require": {
-        "php":               "^7.2.5",
+        "php":               "^7.3",
         "ext-json":          "*",
         "arcanedev/support": "dev-l8"
     },
@@ -50,7 +50,7 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/Arbab-Arif/Support/"
+            "url": "https://github.com/Arbab-Arif/Support"
         }
     ]
 }
