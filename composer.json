@@ -47,10 +47,10 @@
     "suggest": {
         "illuminate/redis": "This package allows you to persist the settings into a redis server."
     },
-    "repositories": {
+    "repositories": [
         {
             "type": "vcs",
             "url": "https://github.com/Arbab-Arif/Support/"
         }
-    }
+    ]
 }
