@@ -18,7 +18,7 @@
     "require": {
         "php":               "^7.3",
         "ext-json":          "*",
-        "arcanedev/support": "dev-develop"
+        "arcanedev/support": "dev-master"
     },
     "require-dev": {
         "orchestra/testbench": "^5.0",
